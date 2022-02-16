@@ -13,8 +13,8 @@ The decrease in various activities due to various social restrictions has an imp
 - Data Visualization
 - Box-Cox Transformation
 - Yeo-Johnson Transformation
-- Shapiro-Wilk Test ofr Normality Testing
-- Paired T-test for Hypothesis Testing
+- Shapiro-Wilk Test for Normality Test
+- Paired T-test for Hypothesis Test
 
 ## Results
 
